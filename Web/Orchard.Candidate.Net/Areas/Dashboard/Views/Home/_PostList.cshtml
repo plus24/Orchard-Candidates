@@ -1,0 +1,34 @@
+﻿@using Orchard.Candidate.Core.Models
+@model List<UserBlogPostModel>
+<div class="loader hidden"></div>
+<div class="posttable">
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-responsive table-bordered">
+            <thead>
+                <tr>
+                    <td>id</td>
+                    <td>title</td>
+                    <td>body</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var post in Model)
+                {
+                    <tr>
+                        <td>@post.Id</td>
+                        <td>@post.Title</td>
+                        <td>@post.Body</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <input type="hidden" id="pageNumber" value="@(ViewBag.pageNumber ?? 1)" />
+        <input type="button" onclick="PreviousPost()" class="btn btn-default" value="Older Posts" />
+    }
+    else
+    {
+        <h1>No more posts</h1>
+        <input type="button" onclick="MostRecentPost()" class="btn btn-default" value="Most Recent" />
+    }
+</div>

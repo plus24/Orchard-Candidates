@@ -1,0 +1,41 @@
+﻿@using Orchard.Candidate.Core.Models
+@model UserPostsModel
+@{
+    ViewBag.Title = "User Home Page";
+}
+<h2>@ViewBag.Title.</h2>
+<h1>Welcome @Model.userName</h1>
+<h3>TODO: ADD POST DATA HERE</h3>
+<div id="postlist">
+    @Html.Partial("_PostList", Model.postList)
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+        function PreviousPost() {
+            FetchPosts(5, parseInt($("#pageNumber").val()) + 1);
+
+        }
+        function MostRecentPost() {
+            FetchPosts(5,1);
+        }
+        function FetchPosts(NumberOfPost, PageNumber) {
+            $(".loader").removeClass("hidden");
+            $(".posttable").addClass("hidden");
+            $.ajax({
+                    url: "@Url.Action("_PostList")",
+                    type: "POST",
+                    dataType: "html",
+                    data: {
+                        NumberOfPost: NumberOfPost
+                        , PageNumber: PageNumber
+                    },
+                    success: function (data, textStatus, XMLHttpRequest) {
+                        $("#postlist").html(data);
+                        $(".posttable").removeClass("hidden");
+                        $(".loader").addClass("hidden");
+                    }
+                });
+        }
+    </script>
+}

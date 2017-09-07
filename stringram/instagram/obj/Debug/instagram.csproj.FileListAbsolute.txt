@@ -1,0 +1,7 @@
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\bin\Debug\stringram.exe.config
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\bin\Debug\stringram.exe
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\bin\Debug\stringram.pdb
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\obj\Debug\instagram.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\obj\Debug\instagram.csproj.CoreCompileInputs.cache
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\obj\Debug\stringram.exe
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\instagram\obj\Debug\stringram.pdb

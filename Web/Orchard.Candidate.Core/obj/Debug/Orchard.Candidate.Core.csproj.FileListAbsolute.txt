@@ -1,0 +1,5 @@
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Core\bin\Debug\Orchard.Candidate.Core.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Core\bin\Debug\Orchard.Candidate.Core.pdb
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Core\obj\Debug\Orchard.Candidate.Core.csproj.CoreCompileInputs.cache
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Core\obj\Debug\Orchard.Candidate.Core.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Core\obj\Debug\Orchard.Candidate.Core.pdb

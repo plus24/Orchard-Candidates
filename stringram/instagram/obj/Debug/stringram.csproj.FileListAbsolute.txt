@@ -1,0 +1,7 @@
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\bin\Debug\stringram.exe.config
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\bin\Debug\stringram.exe
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\bin\Debug\stringram.pdb
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\obj\Debug\stringram.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\obj\Debug\stringram.csproj.CoreCompileInputs.cache
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\obj\Debug\stringram.exe
+C:\Users\ME\Documents\Visual Studio 2017\Projects\stringram\stringram\obj\Debug\stringram.pdb

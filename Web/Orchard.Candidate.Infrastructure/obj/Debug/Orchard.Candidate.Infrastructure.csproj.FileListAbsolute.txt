@@ -1,0 +1,15 @@
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Infrastructure.dll.config
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Infrastructure.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Infrastructure.pdb
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Common.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Core.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Common.pdb
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Orchard.Candidate.Core.pdb
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\obj\Debug\Orchard.Candidate.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\obj\Debug\Orchard.Candidate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\obj\Debug\Orchard.Candidate.Infrastructure.dll
+C:\Users\ME\Downloads\Compressed\orchard\AwcBDA8DCQ0MBwIDBAAHDA-master\Orchard.Candidate.Infrastructure\obj\Debug\Orchard.Candidate.Infrastructure.pdb

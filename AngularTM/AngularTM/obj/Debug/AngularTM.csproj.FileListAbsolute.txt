@@ -1,0 +1,10 @@
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\bin\Debug\AngularTM.exe.config
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\bin\Debug\AngularTM.exe
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\bin\Debug\AngularTM.pdb
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.csproj.CoreCompileInputs.cache
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.exe
+c:\users\me\documents\visual studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.pdb
+\\Me-asus\C\Users\ME\Documents\Visual Studio 2017\Projects\AngularTM\AngularTM\bin\Debug\AngularTM.exe.config
+\\Me-asus\C\Users\ME\Documents\Visual Studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.exe
+\\Me-asus\C\Users\ME\Documents\Visual Studio 2017\Projects\AngularTM\AngularTM\obj\Debug\AngularTM.pdb
